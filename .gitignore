@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+/migrations
+/.idea
+/static
+.env.local
+config.py
